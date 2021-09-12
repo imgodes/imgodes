@@ -25,10 +25,16 @@
 </div>
 # About Me
 - 🔭 Hoje trabalho com cibersegurança 🔒 🛡️
+ 
 - 🌱 Estudando temas como:
     🛡️ Blue Team 🛡️ (de maneira geral)
+ 
     🛡️ IR 🛡️
+ 
     🛡️ Deployment de Tecnologias de SOC 🛡️ (HA scenarios)
+    
     🛡️ Estudando pra Comptia Security + 🛡️
+    
     🛡️ Sempre fortalecento alguns conhecimentos base 🛡️
-- 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo (inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/). 
+
+ - 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo (inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/). 
