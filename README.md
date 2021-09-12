@@ -39,4 +39,5 @@
     
     🛡️ Sempre fortalecento alguns conhecimentos base 🛡️
 
- - 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo (inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/). 
+ - 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo 
+ > inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/ 
