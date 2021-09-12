@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
   <img align="center" alt="guedes-kasp" height="5%" width="5%" src="https://icon-library.com/images/kaspersky-icon/kaspersky-icon-2.jpg">
 </div>
-    
+<br> <br>
 <div> 
   <!--- a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a--->
  	<!---a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a--->
