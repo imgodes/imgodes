@@ -23,7 +23,9 @@
   ![Snake animation](https://github.com/chewygg/chewygg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
 # About Me
+
 - 🔭 Hoje trabalho com cibersegurança 🔒 🛡️
  
 - 🌱 Estudando temas como:
