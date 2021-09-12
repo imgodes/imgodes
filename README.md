@@ -1,24 +1,5 @@
 ### Boa ✌️ 👋
 
-<!--
-**chewygg/chewygg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com cibersegurança 🔒 🛡️
-- 🌱 Estudando temas como:
-    🛡️ Blue Team 🛡️ (de maneira geral)
-    🛡️ IR 🛡️
-    🛡️ Deployment de Tecnologias de SOC 🛡️ (HA scenarios)
-    🛡️ Estudando pra Comptia Security + 🛡️
-    🛡️ Sempre fortalecento alguns conhecimentos base 🛡️
-- 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo (inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/). 
-- 🤔 I’m looking for help with...
-- 💬 Ask me about ...
-- 📫 How to reach me: gabriel.guedes2001@gmail.com / https://www.linkedin.com/in/gguedescruz/
-- ⚡ Fun fact: ...
--->
-
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chewygg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,3 +23,12 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/chewygg/chewygg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+# About Me
+- 🔭 Hoje trabalho com cibersegurança 🔒 🛡️
+- 🌱 Estudando temas como:
+    🛡️ Blue Team 🛡️ (de maneira geral)
+    🛡️ IR 🛡️
+    🛡️ Deployment de Tecnologias de SOC 🛡️ (HA scenarios)
+    🛡️ Estudando pra Comptia Security + 🛡️
+    🛡️ Sempre fortalecento alguns conhecimentos base 🛡️
+- 👯 Futuramente, pretendo colaborar / dar aulas numa instituição que me ajudou muito quando eu era mais novo (inclusive se quiserem contribuir - https://www.vivendadacrianca.com.br/). 
