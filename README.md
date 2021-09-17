@@ -7,27 +7,33 @@
   <a href="https://www.linkedin.com/in/gguedescruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chewygg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewygg&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/chewygg">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chewygg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
- 
-## Tecnologias Mais usadas
-<center>
- <div style="display: inline_block"><br>
-   <img align="center" alt="guedes-graylog" height="5%" width="5%" src="https://symbols.getvecta.com/stencil_82/74_graylog-icon.ffab6f6594.svg">
-   <img align="center" alt="guedes-wazuh" height="5%" width="5%" src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4">
-   <img align="center" alt="guedes-linux" height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-   <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
-   <img align="center" alt="guedes-kasp" height="5%" width="5%" src="https://icon-library.com/images/kaspersky-icon/kaspersky-icon-2.jpg">
- </div>
-</center>
-<br> <br>
 
- 
-  ![Snake animation](https://github.com/chewygg/chewygg/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+   ![Snake animation](https://github.com/chewygg/chewygg/blob/output/github-contribution-grid-snake.svg) 
+
+## Tecnologias Mais usadas
+
+ <div style="display: inline_block"><br>
+ <center>
+   <img align="center" alt="guedes-graylog" height="5%" width="5%" src="https://symbols.getvecta.com/stencil_82/74_graylog-icon.ffab6f6594.svg">
+   &nbsp &nbsp 
+   <img align="center" alt="guedes-wazuh" height="5%" width="5%" src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4">
+   &nbsp &nbsp 
+   <img align="center" alt="guedes-linux" height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
+   &nbsp &nbsp 
+   <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
+   &nbsp &nbsp 
+   <img align="center" alt="guedes-kasp" height="5%" width="5%" src="https://icon-library.com/images/kaspersky-icon/kaspersky-icon-2.jpg">
+   <br><br>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewygg&layout=compact&langs_count=7&theme=dark"/>
+ </center>
+  </div>
+
+<br>
+   
+  </div>
  
 # About Me
 
