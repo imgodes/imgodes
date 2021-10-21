@@ -25,7 +25,6 @@
    &nbsp &nbsp 
    <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
    &nbsp &nbsp 
-   <img align="center" alt="guedes-kasp" height="5%" width="5%" src="https://icon-library.com/images/kaspersky-icon/kaspersky-icon-2.jpg">
    <br><br>
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewygg&layout=compact&langs_count=7&theme=dark"/>
  </center>
