@@ -25,8 +25,7 @@
    &nbsp &nbsp 
    <img align="center" alt="guedes-splunk" height="5%" width="5%" src="https://www.splunk.com/themes/splunk_com/css/images/2020-splunk-planet.svg">
    &nbsp &nbsp 
-   <img align="center" alt="guedes-osquery" height="5%" width="5%" src="https://raw.githubusercontent.com/osquery/osquery/master/docs/img/logo-2x-dark.png
-">
+   <img align="center" alt="guedes-osquery" height="5%" width="5%" src="https://raw.githubusercontent.com/osquery/osquery/master/docs/img/logo-2x-dark.png">
    &nbsp &nbsp 
    <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
    &nbsp &nbsp 
