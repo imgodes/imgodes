@@ -23,7 +23,7 @@
    &nbsp &nbsp 
    <img align="center" alt="guedes-linux" height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
    &nbsp &nbsp 
-   <img align="center" alt="guedes-splunk" height="5%" width="5%" src="https://www.splunk.com/content/dam/splunk-logo-dark.svg">
+   <img align="center" alt="guedes-splunk" height="5%" width="5%" src="https://www.splunk.com/themes/splunk_com/css/images/2020-splunk-planet.svg">
    &nbsp &nbsp 
    <img align="center" alt="guedes-osquery" height="5%" width="5%" src="https://raw.githubusercontent.com/osquery/osquery/master/docs/img/logo-2x-dark.png
 ">
