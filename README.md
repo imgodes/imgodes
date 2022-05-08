@@ -17,7 +17,7 @@
 
  <div style="display: inline_block"><br>
  <center>
-   <img align="center" alt="guedes-graylog" height="5%" width="5%" src="https://symbols.getvecta.com/stencil_82/74_graylog-icon.ffab6f6594.svg">
+   <img align="center" alt="guedes-graylog" height="5%" width="5%" src="https://assets-global.website-files.com/5e9fae47f9a5b161fc3f7024/621813dfcf02a2fcaf04b6f3_gl_logo_horiz.svg">
    &nbsp &nbsp 
    <img align="center" alt="guedes-wazuh" height="5%" width="5%" src="https://avatars.githubusercontent.com/u/13752566?s=200&v=4">
    &nbsp &nbsp 
