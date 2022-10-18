@@ -8,10 +8,10 @@
 
  <div>
   <a href="https://github.com/imgodes">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chewygg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=imgodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-   ![Snake animation](https://github.com/chewygg/chewygg/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/imgodes/imgodes/blob/output/github-contribution-grid-snake.svg) 
 
 ## Tecnologias Mais usadas
 
@@ -30,7 +30,7 @@
    <img align="center" alt="guedes-es" height="5%" width="5%" src="https://assets.zabbix.com/img/brands/elastic.svg">
    &nbsp &nbsp 
    <br><br>
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewygg&layout=compact&langs_count=7&theme=dark"/>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgodes&layout=compact&langs_count=7&theme=dark"/>
  </center>
   </div>
 <br>
