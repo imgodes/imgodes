@@ -31,7 +31,8 @@
    &nbsp &nbsp 
    <br><br>
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgodes&layout=compact&langs_count=7&theme=dark"/>
- </center>
+   <img align="right" alt="avatar" height="150" style="border-radius:50px;" src="https://imgodes.github.io/assets/img/favicons/godes_avatar.jpg">
+   </center>
   </div>
 <br>
    
