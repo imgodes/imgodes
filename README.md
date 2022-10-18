@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/gguedescruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div>
-  <a href="https://github.com/chewygg">
+  <a href="https://github.com/imgodes">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=chewygg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
