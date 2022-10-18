@@ -5,6 +5,7 @@
  <!---a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a---> 
   <a href = "mailto:gabriel.guedes2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gguedescruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="avatar" height="200" style="border-radius:50px;" src="https://github.com/imgodes/imgodes.github.io/blob/a2526ce9f78cab22bd49639f931a245c1b8fa718/assets/img/favicons/godes_avatar.jpg">
 
  <div>
   <a href="https://github.com/imgodes">
@@ -31,7 +32,6 @@
    &nbsp &nbsp 
    <br><br>
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgodes&layout=compact&langs_count=7&theme=dark"/>
-   <img align="right" alt="avatar" height="150" style="border-radius:50px;" src="https://imgodes.github.io/assets/img/favicons/godes_avatar.jpg">
    </center>
   </div>
 <br>
