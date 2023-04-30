@@ -6,7 +6,7 @@
 <a href="https://imgodes.github.io"><img src="https://img.shields.io/badge/-Site Pessoal-black?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href = "mailto:gabriel.guedes2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gguedescruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://imgodes.github.io" target="_blank"> <img align="left" alt="avatar" height="200" style="border-radius:50px;" src="https://github.com/imgodes/imgodes.github.io/blob/a2526ce9f78cab22bd49639f931a245c1b8fa718/assets/img/favicons/godes_avatar.jpg">
+<a href="https://imgodes.github.io" target="_blank">
 
  <div>
   <a href="https://github.com/imgodes" target="_blank"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=imgodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
